@@ -1,0 +1,19 @@
+h1 {
+    text-transform: uppercase;
+}
+html {
+    color: white;
+    background-color: black;
+}
+#picture {
+    width: 100%;
+    border: 5px solid white
+}
+div {
+    text-align: center;
+    margin-top: 50px;
+    width: 50%;
+    margin-left: 25%;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
